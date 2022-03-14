@@ -1,0 +1,5 @@
+package com.examly.housemanagement.housemanagement.entity;
+
+public class HouseEntity {
+
+}
